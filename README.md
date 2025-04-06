@@ -8,8 +8,7 @@
 ## 📽️ Live Demo
 
 🎬 **Watch the Project in Action:**  
-[▶️ Click here to watch the demo video](https://github.com/Jagdish1123/Cummins_Hackathon25/blob/main/smartbudget/Demo/Demo.mp4)
-
+[▶️ Click here to watch the demo video](https://drive.google.com/drive/folders/17w9g5dM0URGq6Gm6iFbchhe9V3hSqeKZ)
 ---
 
 ## 🧩 Project Overview
