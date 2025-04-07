@@ -8,7 +8,7 @@
 ## 📽️ Live Demo
 
 🎬 **Watch the Project in Action:**  
-[▶️ Click here to watch the demo video](https://drive.google.com/drive/folders/17w9g5dM0URGq6Gm6iFbchhe9V3hSqeKZ)
+[▶️ Click here to watch the demo video](https://youtu.be/dYMfHrAodXs)
 ---
 
 ## 🧩 Project Overview
