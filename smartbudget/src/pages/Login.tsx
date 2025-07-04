@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { useAuth } from "@/contexts/AuthContext";
@@ -30,13 +30,8 @@ const Login = () => {
     setIsLoading(true);
 
     try {
-      // Simple hardcoded demo user check
-      if (email === "admin@gmail.com" && password === "admin123") {
-        toast.success(t("Logged in as admin"));
-        navigate("/dashboard");
-      } else {
-        throw new Error("Invalid credentials");
-      }
+      await login(email, password);
+      navigate("/dashboard");
     } catch (error) {
       console.error("Login error:", error);
       toast.error(t("Invalid email or password"));
@@ -117,4 +112,5 @@ const Login = () => {
 };
 
 export default Login;
+
 
