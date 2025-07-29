@@ -1,4 +1,3 @@
-import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Toaster } from 'react-hot-toast';
 import { AnimatePresence } from 'framer-motion';
@@ -13,7 +12,7 @@ function App() {
       <AnimatePresence mode="wait">
         <Layout>
           <Routes>
-            <Route path="/" element={<DashboardPage />} />
+            // <Route path="/" element={<DashboardPage />} /> 
             <Route path="/qr-payment" element={<QRCodePage />} />
             <Route path="/settings" element={<SettingsPage />} />
           </Routes>
