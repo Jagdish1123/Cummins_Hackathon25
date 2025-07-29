@@ -9,6 +9,7 @@
 
 🎬 **Watch the Project in Action:**  
 [▶️ Click here to watch the demo video](https://youtu.be/dYMfHrAodXs)
+
 ---
 
 ## 🧩 Project Overview
@@ -19,11 +20,15 @@ We built an end-to-end AI-powered financial platform in just **72 hours** at the
 
 ## 💳 Module 1: QR Payment App with UPI Integration
 
+[![Live QR Payment Demo](https://img.shields.io/badge/Demo-Payment_App-green?style=for-the-badge&logo=vercel&logoColor=white)](https://cummins-hackathon25.vercel.app/)
+
 **Tech Stack:** React + Supabase + Framer Motion
 
 - 📲 Instant QR Code Generation (Mobile / UPI ID)
 - 🔐 2FA and OTP-Based Security
 - 📈 Encrypted Logs + Smooth UI Animations
+
+🔗 **Payment App:** [https://cummins-hackathon25.vercel.app/](https://cummins-hackathon25.vercel.app/)
 
 ---
 
@@ -39,13 +44,14 @@ We built an end-to-end AI-powered financial platform in just **72 hours** at the
 
 ## 🧠 Module 3: Smart Budget Manager
 
+[![Live Smart Budget Demo](https://img.shields.io/badge/Demo-Budget_App-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://smartbudget-nine.vercel.app/)
+
 **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)
 
 - 🧾 AI Advisor for Goal-Based Planning
 - 👥 Group Budgeting with Collaborative Splits
 - 🌐 Multilingual Support for Accessibility
 
+🔗 **Budget Website:** [https://smartbudget-nine.vercel.app/](https://smartbudget-nine.vercel.app/)
+
 ---
-
-
-
