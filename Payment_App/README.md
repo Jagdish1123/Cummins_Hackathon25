@@ -4,7 +4,8 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
-Secure UPI payment solution with dynamic QR generation and transaction logging.
+
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge&logo=vercel&logoColor=white)](https://cummins-hackathon25.vercel.app/)
 
 ---
 
